@@ -17,4 +17,4 @@ hostname = "insert_here"
 username = "insert_here"
 password = "insert_here"
 port = "insert_here"
-database = "insert_here"
+3. You will also need the database name (this example uses "mel_db_test"; this info is stored in the code rather than the config file)
